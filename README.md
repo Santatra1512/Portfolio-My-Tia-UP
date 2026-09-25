@@ -11,5 +11,4 @@ MY TIA DESIRE RAZATOVONIAINA — NETLIFY PORTFOLIO
 No build command is required for this plain HTML/CSS/JS site.
 
 IMPORTANT:
-- Replace the placeholder email link in index.html (contact@example.com) with the real address before publishing.
-- Replace the placeholder LinkedIn and WhatsApp links with real URLs if desired.
+

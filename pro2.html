@@ -23,7 +23,15 @@
 <div class="resource-block">
   <div class="kicker">Livrable BIM</div><h2>Maquette structure en béton armé</h2>
   <p>Fichier IFC de la maquette structurelle en béton armé.</p>
-  <div class="resource-actions"><a class="resource-btn primary" href="assets/projet-2/Maquette-structure-BA.ifc">Télécharger la maquette IFC ↓</a></div>
+<div class="resource-actions">
+  <a class="resource-btn primary"
+     href="assets/projet-2/Maquette-structure-BA.ifc"
+     onclick="gtag('event', 'download_ifc_ba', {
+       'event_category': 'bim_deliverable',
+       'event_label': 'Maquette IFC Structure BA'
+     });">
+    Télécharger la maquette IFC ↓
+  </a>
 </div>
 
 </main>

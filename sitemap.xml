@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://mytia-portfolio.netlify.app/</loc>
+  </url>
+
+  <url>
+    <loc>https://mytia-portfolio.netlify.app/parcours</loc>
+  </url>
+
+  <url>
+    <loc>https://mytia-portfolio.netlify.app/projets</loc>
+  </url>
+
+  <url>
+    <loc>https://mytia-portfolio.netlify.app/apropos</loc>
+  </url>
+
+  <url>
+    <loc>https://mytia-portfolio.netlify.app/logiciels</loc>
+  </url>
+
+  <url>
+    <loc>https://mytia-portfolio.netlify.app/tiny-house</loc>
+  </url>
+
+  <url>
+    <loc>https://mytia-portfolio.netlify.app/pro1</loc>
+  </url>
+
+  <url>
+    <loc>https://mytia-portfolio.netlify.app/pro2</loc>
+  </url>
+
+</urlset>
